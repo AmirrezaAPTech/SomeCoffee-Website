@@ -1,9 +1,4 @@
 # ☕ SomeCoffee Coffee Shop Web App 🌟
-
-![SomeCoffee Coffee Shop](insert-link-to-your-banner-image)
-
-## Elevate Your Digital Coffee Experience
-
 Welcome to the SomeCoffee Coffee Shop Web App repository! ☕ Immerse yourself in the captivating world of SomeCoffee Cafe with our meticulously crafted React and Material-UI (Mui) web application. Transform your digital space into a haven for premium coffee blends, decadent cakes, and refreshing iced beverages.
 
 ## 🌈 Features to Savor
